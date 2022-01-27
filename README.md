@@ -1,5 +1,5 @@
 #Author Info
-Building on @serinachang5's work 
+Building on @serinachang5's work, we plan to add additional screenplays and continue analysis
 
 # Automating the Bechdel Test
 Developing a classifier to automatically predict whether a movie passes the Bechdel Test.
