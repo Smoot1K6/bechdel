@@ -1,3 +1,6 @@
+#Author Info
+Building on @serinachang5's work 
+
 # Automating the Bechdel Test
 Developing a classifier to automatically predict whether a movie passes the Bechdel Test.
 
